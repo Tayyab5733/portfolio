@@ -25,7 +25,7 @@ import upwork from "./company/upwork.png";
 import nextalgo from "./company/nextalgo.png";
 
 import weathersnap from "./weathersnap.gif";
-import linearvision from "./linearvision.png";
+import linearvision from "./linearvision.gif";
 import hairday from "./hairday.png";
 
 import mitch from "./testimonials/mitch.png";
