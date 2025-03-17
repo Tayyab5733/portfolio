@@ -35,8 +35,8 @@ function LogoAnimation() {
   return (
     <div className="intro">
       <h1 className="logo-header">
-        <span className="intro-logo">Afnan </span>{" "}
-        <span className="intro-logo">Qasim.</span>
+        <span className="intro-logo">TAYYAB </span>{" "}
+        <span className="intro-logo">ALI.</span>
       </h1>
     </div>
   );

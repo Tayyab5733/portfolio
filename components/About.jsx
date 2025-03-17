@@ -59,12 +59,10 @@ const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="mt-5 mb-12 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-        As an experienced Machine Learning (NLP) Engineer with a Bachelor's
-        in Computational Physics and expertise in Python, NLP, and machine learning 
-        libraries like TensorFlow and PyTorch, With a track record of successfully 
-        implementing chatbots and emotion classifiers, and a passion for staying updated with the latest ML techniques,
-        I am confident in contributing to ASLASE's cutting-edge projects and driving innovation in the field of NLP. 
-        Let's collaborate to unlock the true potential of data through the art of machine learning!
+        From nanostructure modelling to classification of astronomical objects, computational techniques always stand in front to explain
+        past, observe present, and predict the future. Being a computational physicist, I am well-crafted in scientific computing for
+        numerical analysis, visual demonstrations, theoretical simulations, and extracting high-precision data of various real-world
+        physical and chaotic aspects, with a prime interest of integrating AI in science to meet societal challenges !
         </motion.p>
 
         <div
