@@ -243,7 +243,7 @@ const projects = [
       "Simulated bacterial spread and colony formation in human body by implementing DLA (Diffusion Limited Aggregation) and Eden cluster growth models using Monte-Carlo algorithm.",
     tags: [
       {
-        name: "C#",
+        name: " C#",
         color: "blue-text-gradient",
       },
       {
@@ -283,7 +283,7 @@ const projects = [
       "Simulated spin dynamics due to thermal fluctuations, and process of magnetization under the effect of nearest neighbors causing spin value transitions from +1 (up) to −1 (down), and vice versa.",
     tags: [
       {
-        name: "C#",
+        name: " C#",
         color: "blue-text-gradient",
       },
       {
