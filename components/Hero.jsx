@@ -42,8 +42,8 @@ const Hero = () => {
             
 
               
-              simulate? : <br className="sm:block hidden" />
-              because nature won’t wait for  
+              simulate ? <br className="sm:block hidden" />
+              Nature won’t wait for  
               <span
               className="text-red-500"
               style={{ mixBlendMode: "difference" }}
