@@ -43,7 +43,7 @@ const Hero = () => {
 
               
               Artificial Intelligence <br className="sm:block hidden" />
-              in Physics simulations  
+              in Physics  
               <span
               className="text-red-500"
               style={{ mixBlendMode: "difference" }}
@@ -51,7 +51,7 @@ const Hero = () => {
              
             </span>{" "}
               <span className="text-transparent bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text">
-              trial runs. {" "}
+              simulations. {" "}
               </span> 
 
             </p>
