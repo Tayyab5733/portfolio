@@ -29,7 +29,7 @@ const Hero = () => {
 
           <motion.div variants={textVariant()}>
             <h1 className={`${styles.heroHeadText} text-white`}>
-              Ayo, I'm{" "}
+              Hi, I'm{" "}
               <span className="text-transparent bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text">
                 Tayyab.
               </span>
