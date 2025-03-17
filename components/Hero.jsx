@@ -35,23 +35,23 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100 p`}>
-            Unlocking the hidden potential of {" "}
+            Why guess when you can  {" "}
               <span className="text-transparent bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text">
-              data {" "}
+              integrating Artificial Intelligence {" "}
               </span>
             
 
               
-              with the<br className="sm:block hidden" />
-              art of 
+              simulate? : <br className="sm:block hidden" />
+              because nature won’t wait for  
               <span
               className="text-red-500"
               style={{ mixBlendMode: "difference" }}
             >
-             ❤️
+             
             </span>{" "}
               <span className="text-transparent bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text">
-               Machine Learning {" "}
+              trial runs. {" "}
               </span> 
 
             </p>

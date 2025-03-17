@@ -119,32 +119,28 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Machine Learning Engineer (NLP)",
-    company_name: "Kyaas Solutions",
+    title: "AI Engineer Intern",
+    company_name: "Wellness Innovation",
     icon: interns,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "Sep 2024 - Present",
     points: [
-      "Assist in data collection, cleaning, and preprocessing tasks.",
-      "Support feature engineering efforts under senior ML engineers' guidance.",
-      "Develop and implement machine learning models following established guidelines.",
-      "Collaborate with the ML team for model testing and evaluation.",
-      "Learn actively, conduct research on ML techniques, and contribute to ML projects with a proactive and enthusiastic attitude.",
+      "Worked on agentic design patterns to build an industry-based autonomous codet-agent for production-quality code generation, debugging, and feature implementation using multi-agent framework autogen, utilizing llama- 70b-3.1-versatile  with enhanced decision making through 3 well-crafted prompts in YAML format, which will solve real-world engineering tasks, especially GitHub issues.",
+      "Created and run end-to-end test-cases for performance analysis and code coverage of codet-agent.",
+      "Generated Embeddings by splitting context length for open-source LLMs using OllamaEmbeddings and OpenAIEmbedings.",
+      "Fetched docstring, function signatures, and source code by inspecting live objects in Python, using inspect module, and augmented it with LLM through RAG (Retrieval Augmented Generation)",
       
     ],
   },
   {
-    title: "Junior Machine Learning Engineer",
-    company_name: "Creative sol",
+    title: "Teacher Assistant",
+    company_name: "Educators",
     icon: upwork,
     iconBg: "#15A800",
-    date: "March 2022 - Jan 2023",
+    date: "Nov 2021 - July 2024",
     points: [
-      "Support data collection, cleaning, and preprocessing tasks.",
-      "Collaborate with senior ML engineers on feature engineering and model development.",
-      "Assist in model testing, evaluation, and results documentation.",
-      "Actively learn and expand ML knowledge through research and hands-on tasks.",
-      "Maintain data pipelines, follow coding standards, and contribute to team meetings with enthusiasm.",
+      "Taught O/A Levels Mathematics and Physics, alongside working on curriculum design aligned with academic requirements, lesson planning, and structure of reasoning to produce not just students but laboratory-of-minds.",
+      "Used my computational skills for visual demonstration of desired lesson, like movement of Earth and Moon, to create positive, interactive, and engaged environment.",
     ],
   },
 
@@ -153,7 +149,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Impressive AI Project! The algorithms are cutting-edge, delivering precise results. Kudos to the team for innovation and accuracy!⭐⭐⭐⭐",
+      "Impressive simulations ! The algorithms are cutting-edge, delivering precise results. Kudos to the team for innovation and accuracy!⭐⭐⭐⭐",
       // "Generative AI with Large Language Models",
     name: "ikrama1000@gmail.com",
     designation: "",
@@ -205,102 +201,188 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Chatbot-transformers",
+    name: "COVID-19 Dataset Modelling and Vaccine Impact Analysis",
     description:
-      "Successfully implemented a chatbot using Google Flan-T5 transformer.Preprocessed the first text before calling the Hugging Face embedding.Created a knowledge base using the preprocessed documents and embeddings.Deployed the knowledge base using Streamlit after saving it in .pkl Utilized the model and knowledge base to predict answers for user queries.",
+      "Performed both country-wise and continent-wise graphical analysis, in which, South America is recorded with highest number of active cases at 32.69%, Asia with highest percentage of critical/serious cases at 76.66%, and USA stood first in total cases having 111.82M effective people with a death rate of 3642 people per 1 million population.",
     tags: [
       {
-        name: "ML ",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "NLP",
+        name: "plotly",
         color: "green-text-gradient",
       },
       {
-        name: "Chatbot ",
+        name: "seaborn ",
         color: "pink-text-gradient",
       },
       {
-        name: "GoogleFlanT5",
+        name: "pandas",
         color: "blue-text-gradient",
       },
       {
-        name: "HuggingFace ",
+        name: "numpy",
         color: "green-text-gradient",
       },
       {
-        name: "Streamlit",
+        name: "BeautifulSoup4",
         color: "pink-text-gradient",
       },
       {
-        name: "Deployment",
+        name: "matplotlib",
         color: "green-text-gradient",
       },
     ],
     image: weathersnap,
-    source_code_link: "https://github.com/afnanqasim74/huggingface-chatbot",
+    source_code_link: "https://github.com/Tayyab5733/COVID-19-Dataset-and-Vaccine-Impact-Analyzer",
   },
   {
-    name: "Linear Vision",
+    name: "Bacterial Enhancement Model",
     description:
-      "Web application that enables users with the power of DALL-E 2's API integration & an image editor resulting in a sleek and minimalist user interface to edit your images creatively.",
+      "Simulated bacterial spread and colony formation in human body by implementing DLA (Diffusion Limited Aggregation) and Eden cluster growth models using Monte-Carlo algorithm.",
     tags: [
       {
-        name: "ML ",
+        name: "C#",
         color: "blue-text-gradient",
       },
       {
-        name: "NLP",
+        name: "DLA",
         color: "green-text-gradient",
       },
       {
-        name: "Chatbot ",
+        name: "Eden",
         color: "pink-text-gradient",
       },
       {
-        name: "GoogleFlanT5",
+        name: "Monte-Carlo Algorithm",
         color: "blue-text-gradient",
       },
       {
-        name: "HuggingFace ",
+        name: "Fractal Dimension ",
         color: "green-text-gradient",
       },
       {
-        name: "Streamlit",
+        name: "Box-Counting",
         color: "pink-text-gradient",
       },
       {
-        name: "Deployment",
+        name: "Angiogenesis",
         color: "green-text-gradient",
       },
       
       
     ],
     image: linearvision,
-    source_code_link: "https://github.com/Sharjeel-Riaz/Linear-Vision",
+    source_code_link: "https://github.com/Tayyab5733/Growth-Model",
     
   },
   {
-    name: "Hair Day",
+    name: "Ising Model",
     description:
-      "An all-inclusive salon experience platform that empowers users to book a wide range of haircare and beauty services, and provides personalized recommendations for their unique needs.",
+      "Simulated spin dynamics due to thermal fluctuations, and process of magnetization under the effect of nearest neighbors causing spin value transitions from +1 (up) to −1 (down), and vice versa.",
     tags: [
       {
-        name: "html",
+        name: "C#",
         color: "blue-text-gradient",
       },
       {
-        name: "css",
+        name: "Atomic Spin",
         color: "green-text-gradient",
       },
       {
-        name: "javascript",
+        name: "Magnetization",
         color: "pink-text-gradient",
+      },
+      {
+        name: "Entropy",
+        color: "blue-text-gradient",
       },
     ],
     image: hairday,
-    source_code_link: "https://github.com/Sharjeel-Riaz/Hair-Day-Website",
+    source_code_link: "https://github.com/Tayyab5733/Ising-Model-in-2D",
+  
+  },
+  {
+    name: "Kuramoto-Sivashinsky Differential Equation Solver",
+    description:
+      "Implemented Exponential Time Differencing (ETD) to visualize 4th order KS differential equation, with domain size of 100, containing 200 degrees of freedom and a spatial resolution of 0.5.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JAX",
+        color: "green-text-gradient",
+      },
+      {
+        name: "FEniCs",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "matplotlib",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: hairday,
+    source_code_link: "https://github.com/Tayyab5733/4th-Order-Kramoto-Sivashinsky-Solver",
+  
+  },
+  {
+    name: "Simulating Ground State Energy of Lithium Hydride",
+    description:
+      "Encoded molecule's information into quantum computer using qubit, performed 1000 iterations before convergence with a variational distance of 0.5Å - 4.25Å having an interval of 0.25Å, and used HartreeFock as an ansatz and updated it through classical optimizer SLSQP" ,
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Qiskit",
+        color: "green-text-gradient",
+      },
+      {
+        name: "VQE",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "SLSQP",
+        color: "red-text-gradient",
+      },
+      {
+        name: "two-qubit-reduction",
+        color: "white-text-gradient",
+      },
+    ],
+    image: hairday,
+    source_code_link: "https://github.com/Tayyab5733/Simulating-Ground-State-Energy-of-Lithium-Hydride",
+  
+  },
+  {
+    name: "Simulating 1-Dimensional Quantum Harmonic Oscillator",
+    description:
+      "Generated 10,000 samples using Metropolis-Hastings algorithm and computed local energy for each sample at learning and acceptance rate of 0.01 and 56.4%, respectively. By effective optimization, ground state energy is computed E = 0.5324 with relative error of 6.48%.",
+    tags: [
+      {
+        name: "Python",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "matplotlib",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Machine Learning",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Gradient-Descent Algorithm",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: hairday,
+    source_code_link: "https://github.com/Tayyab5733/Simulating-1-Dimensional-Quantum-Harmonic-Oscillator",
   
   },
 ];
