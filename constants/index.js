@@ -234,7 +234,7 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: weathersnap,
+    image: hairday,
     source_code_link: "https://github.com/Tayyab5733/COVID-19-Dataset-and-Vaccine-Impact-Analyzer",
   },
   {
@@ -299,7 +299,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: hairday,
+    image: weathersnap,
     source_code_link: "https://github.com/Tayyab5733/Ising-Model-in-2D",
   
   },

@@ -24,7 +24,7 @@ import interns from "./company/interns.png";
 import upwork from "./company/upwork.png";
 import nextalgo from "./company/nextalgo.png";
 
-import weathersnap from "./weathersnap.png";
+import weathersnap from "./weathersnap.gif";
 import linearvision from "./linearvision.png";
 import hairday from "./hairday.png";
 
