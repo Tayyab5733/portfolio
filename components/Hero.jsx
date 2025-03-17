@@ -35,15 +35,15 @@ const Hero = () => {
               </span>
             </h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100 p`}>
-            Why guess when you can  {" "}
+            Unlocking the doors of  {" "}
               <span className="text-transparent bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text">
                {" "}
               </span>
             
 
               
-              simulate ? <br className="sm:block hidden" />
-              Nature won’t wait for  
+              Artificial Intelligence <br className="sm:block hidden" />
+              in Physics simulations  
               <span
               className="text-red-500"
               style={{ mixBlendMode: "difference" }}
