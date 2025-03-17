@@ -37,7 +37,7 @@ const Hero = () => {
             <p className={`${styles.heroSubText} mt-2 text-white-100 p`}>
             Why guess when you can  {" "}
               <span className="text-transparent bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text">
-              integrating Artificial Intelligence {" "}
+               {" "}
               </span>
             
 
