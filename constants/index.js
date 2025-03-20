@@ -22,6 +22,7 @@ import {
   mitch,
   kevin,
   tracy,
+kuramoto-solver,
 } from "../src/assets";
 
 export const navLinks = [
@@ -325,7 +326,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: hairday,
+    image: kuramoto-solver,
     source_code_link: "https://github.com/Tayyab5733/4th-Order-Kramoto-Sivashinsky-Solver",
   
   },

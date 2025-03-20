@@ -27,6 +27,7 @@ import nextalgo from "./company/nextalgo.png";
 import weathersnap from "./weathersnap.gif";
 import linearvision from "./linearvision.gif";
 import hairday from "./hairday.png";
+import kuramot-solver from "./kuramoto-solver.png";
 
 import mitch from "./testimonials/mitch.png";
 import kevin from "./testimonials/kevin.png";
@@ -64,4 +65,5 @@ export {
   mitch,
   kevin,
   tracy,
+  kuramoto-solver,
 };
