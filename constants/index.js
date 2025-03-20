@@ -17,6 +17,8 @@ import {
   nextalgo,
   weathersnap,
   linearvision,
+  herobg,
+  VMC,
   hairday,
   threejs,
   mitch,
@@ -50,11 +52,11 @@ const services = [
     icon: web,
   },
   {
-    title: "NLP",
+    title: "Quantum AI Engineer",
     icon: mobile,
   },
   {
-    title: "Machine Learning",
+    title: "Mathematical Modellig",
     icon: backend,
   },
   {
@@ -62,19 +64,19 @@ const services = [
     icon: creator,
   },
   {
-    title: "Deep Learning ",
+    title: "Scientific Computation ",
     icon: backend,
   },
   {
-    title: "GAN's",
+    title: "Numerical Analysis",
     icon: creator,
   },
   {
-    title: "LLM's",
+    title: "Simulations",
     icon: backend,
   },
   {
-    title: "Transformers",
+    title: "AI Engineer",
     icon: creator,
   },
 ];
@@ -356,7 +358,7 @@ const projects = [
         color: "white-text-gradient",
       },
     ],
-    image: hairday,
+    image: herobg,
     source_code_link: "https://github.com/Tayyab5733/Simulating-Ground-State-Energy-of-Lithium-Hydride",
   
   },
@@ -382,7 +384,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: hairday,
+    image: VMC,
     source_code_link: "https://github.com/Tayyab5733/Simulating-1-Dimensional-Quantum-Harmonic-Oscillator",
   
   },

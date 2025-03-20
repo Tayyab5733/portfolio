@@ -27,6 +27,8 @@ import nextalgo from "./company/nextalgo.png";
 import weathersnap from "./weathersnap.gif";
 import linearvision from "./linearvision.gif";
 import hairday from "./hairday.png";
+import herobg from "./herobg.png";
+import VMC from "./VMC.png";
 import kuramotosolver from "./kuramotosolver.png";
 
 import mitch from "./testimonials/mitch.png";
@@ -60,6 +62,8 @@ export {
   nextalgo,
   weathersnap,
   linearvision,
+  herobg,
+  VMC,
   hairday,
   resume,
   mitch,
