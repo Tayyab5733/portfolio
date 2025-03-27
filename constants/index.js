@@ -16,6 +16,7 @@ import {
   upwork,
   nextalgo,
   weathersnap,
+  qkt,
   linearvision,
   herobg,
   VMC,
@@ -203,6 +204,43 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "Quantum Kernel Training for Binary Classification",
+    description:
+      "Performed both country-wise and continent-wise graphical analysis, in which, South America is recorded with highest number of active cases at 32.69%, Asia with highest percentage of critical/serious cases at 76.66%, and USA stood first in total cases having 111.82M effective people with a death rate of 3642 people per 1 million population.",
+    tags: [
+      {
+        name: "QML",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Qiskit",
+        color: "green-text-gradient",
+      },
+      {
+        name: "IBM ",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "QPU",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Qiskit Patterns",
+        color: "green-text-gradient",
+      },
+      {
+        name: "numpy",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "matplotlib",
+        color: "green-text-gradient",
+      },
+    ],
+    image: qkt,
+    source_code_link: "https://github.com/Tayyab5733/COVID-19-Dataset-and-Vaccine-Impact-Analyzer",
+  },
   {
     name: "COVID-19 Dataset Modelling and Vaccine Impact Analysis",
     description:
