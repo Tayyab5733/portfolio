@@ -16,7 +16,6 @@ import {
   upwork,
   nextalgo,
   weathersnap,
-  qkt,
   linearvision,
   herobg,
   VMC,
