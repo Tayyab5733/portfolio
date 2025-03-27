@@ -16,6 +16,7 @@ import {
   upwork,
   nextalgo,
   weathersnap,
+  kernel,
   linearvision,
   herobg,
   VMC,
@@ -303,7 +304,7 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: weathersnap,
+    image: kernel,
     source_code_link: "https://github.com/Tayyab5733/Ising-Model-in-2D",
   
   },
